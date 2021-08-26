@@ -1,4 +1,4 @@
-# Image-segmentation-with-U-Net
+# Image-Segmentation-with-U-Net
 ## Coursera - CNN Programming Assignment
 
 ### Disclaimer:
